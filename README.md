@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- [Active Directory Virtual Machines Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Virtual Machines Project](https://github.com/tvannewkirk/ActiveDirectoryLab)
 - [Microsoft 365 Administration Environment](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📄 Certifications: </h2>
