@@ -10,7 +10,7 @@ I recently completed the CompTIA A+ certification and I appreciated the opportun
 
 - [Active Directory Virtual Machines Project](https://github.com/tvannewkirk/ActiveDirectoryLab)
 - [Microsoft 365 Administration Environment](https://github.com/tvannewkirk/Microsoft365Admin)
-- [Windows Autopilot Project](https://github.com/tvannewkirk/Microsoft365Admin)
+- [Windows Autopilot Project](https://github.com/tvannewkirk/Autopilot)
 - [Windows Deployment Services Imaging Project](https://github.com/tvannewkirk/Microsoft365Admin)
 - [SCCM Deployment Project](https://github.com/tvannewkirk/Microsoft365Admin)
 
