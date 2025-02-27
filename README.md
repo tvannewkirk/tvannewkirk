@@ -20,7 +20,7 @@ I recently completed the CompTIA A+ certification and I appreciated the opportun
 - [CompTIA A+ 220-1101/1102](https://www.certmetrics.com/comptia/public/verification.aspx?code=BVSH6PM7J40PFR3C)
 
 <h2>📄 Education: </h2>
-- BA/BS in Electrical Engineering- University of San Diego
+- BA/BS in Electrical Engineering, University of San Diego
 
 <h2> 🤳 Connect with me:</h2>
 
