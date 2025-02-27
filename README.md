@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tanner! <br/></h1>
 
 <h2>About:</h2>
-I am someone who is excited by the opportunity to help users with technology and to expand my understanding of computer systems through solving problems and learning. I am pursuing a role where I will be able to combine my customer service experience with my technical skills to solve user issues quickly and efficiently. My goal is to provide empathy to customers and to ensure the problem solving process is as smooth as possible.
+I am someone who is excited by the opportunity to help users with technology and to expand my understanding of computer systems through solving problems and learning. I am pursuing a role where I will be able to combine my customer service experience with my technical skills to solve user issues quickly and efficiently. My goal is to provide empathy to customers and to ensure the problem solving process is as smooth as possible. I have one year of customer service experience.
 <br /><br/>
 I recently completed the CompTIA A+ certification and I appreciated the opportunity to learn the material as it gave me a basic understanding of some of the disciplines within Information Technology. While studying for the certification, I learned that I was particularly interested in hardware and software troubleshooting, networking, operating systems and security. My goal is to continue applying the concepts I learned from the certification and to continue the process of learning.
 <br />
@@ -18,6 +18,9 @@ I recently completed the CompTIA A+ certification and I appreciated the opportun
 <h2>📄 Certifications: </h2>
 
 - [CompTIA A+ 220-1101/1102](https://www.certmetrics.com/comptia/public/verification.aspx?code=BVSH6PM7J40PFR3C)
+
+<h2>📄 Education: </h2>
+- [BA/BS in Electrical Engineering- University of San Diego]
 
 <h2> 🤳 Connect with me:</h2>
 
