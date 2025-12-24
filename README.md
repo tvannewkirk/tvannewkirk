@@ -5,6 +5,7 @@ I am someone who is excited by the opportunity to help users with technology and
 <br /><br/>
 I recently completed the CompTIA A+ certification and I appreciated the opportunity to learn the material as it gave me a basic understanding of some of the disciplines within Information Technology. While studying for the certification, I learned that I was particularly interested in hardware and software troubleshooting, networking, operating systems and security. My goal is to continue applying the concepts I learned from the certification and to continue the process of learning.
 <br />
+I also
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
