@@ -13,7 +13,6 @@ I also completed the Cisco Certified Network Associate Certification which valid
 - [Active Directory Virtual Machines Project](https://github.com/tvannewkirk/ActiveDirectoryLab)
 - [Windows Deployment Services Imaging Project](https://github.com/tvannewkirk/WDSProject)
 - [SCCM Deployment Project](https://github.com/tvannewkirk/SCCM)
-- [Windows Autopilot Project](https://github.com/tvannewkirk/Autopilot)
 - [Microsoft 365 Administration Environment](https://github.com/tvannewkirk/Microsoft365Admin)
 
 
