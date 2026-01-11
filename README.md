@@ -9,6 +9,7 @@ I also completed the Cisco Certified Network Associate Certification which valid
 <br />
 
 <h2>👨‍💻 Information Technology Projects:</h2>
+
 -<b>Active Directory</b>
   - [Active Directory Virtual Machines Project](https://github.com/tvannewkirk/ActiveDirectoryLab)
 - <b>osTicket (Help Desk Ticketing System)</b>
