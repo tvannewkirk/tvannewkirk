@@ -20,6 +20,7 @@ I also completed the Cisco Certified Network Associate Certification which valid
 - [Cisco Certified Network Associate (CCNA)](https://cp.certmetrics.com/cisco/en/public/verify/credential/536c6429babf48afbeba38fde532c878)
 
 <h2>📄 Education: </h2>
+
 -<b>BA/BS in Electrical Engineering, University of San Diego</b>
 
 <h2> 🤳 Connect with me:</h2>
