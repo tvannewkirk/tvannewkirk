@@ -21,7 +21,7 @@ I also completed the Cisco Certified Network Associate Certification which valid
 
 <h2>📄 Education: </h2>
 
--BA/BS in Electrical Engineering, University of San Diego
+- BA/BS in Electrical Engineering, University of San Diego
 
 <h2> 🤳 Connect with me:</h2>
 
