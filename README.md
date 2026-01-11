@@ -17,7 +17,7 @@ I also completed the Cisco Certified Network Associate Certification which valid
 <h2>📄 Certifications: </h2>
 
 - [CompTIA A+ 220-1101/1102](https://www.certmetrics.com/comptia/public/verification.aspx?code=BVSH6PM7J40PFR3C)
-- [Cisco Certified Network Associate](https://cp.certmetrics.com/cisco/en/public/verify/credential/536c6429babf48afbeba38fde532c878)
+- [Cisco Certified Network Associate (CCNA)](https://cp.certmetrics.com/cisco/en/public/verify/credential/536c6429babf48afbeba38fde532c878)
 
 <h2>📄 Education: </h2>
 -<b>BA/BS in Electrical Engineering, University of San Diego</b>
