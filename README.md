@@ -13,7 +13,7 @@ I also completed the Cisco Certified Network Associate Certification which valid
 - [Active Directory Virtual Machines Project](https://github.com/tvannewkirk/ActiveDirectoryLab)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tvannewkirk/OSTicket-Ticketing-System-Installation)
-  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Post-Installation Configuration](https://github.com/tvannewkirk/OSTicket-Post-Install-Config)
 
 <h2>📄 Certifications: </h2>
 
