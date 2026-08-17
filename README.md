@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tanner! <br/></h1>
 
 <h2>About:</h2>
-I am an electronics professional who excels at electronic assembly and testing, and thrives within fast-paced environments. I am pursuing a role where I will be able to combine my experience with fast and accurate order fulfillment with my technical skills to help electronics manufacturing companies create functional devices. My passion for electronics assembly and testing allows me to succeed within fast-paced manufacturing environments.
+I am an electronics professional who excels at electronic assembly and testing, and thrives within fast-paced environments. I am pursuing a role where I will be able to combine my experience with fast and accurate order fulfillment with my technical skills to help electronics manufacturing companies create functional devices. My passion for electronics assembly and testing allows me to succeed within manufacturing environments.
 <br /><br/>
 I recently completed the CompTIA A+ certification and I appreciated the opportunity to learn the material as it gave me a basic understanding of some of the disciplines within Information Technology. While studying for the certification, I learned that I was particularly interested in hardware and software troubleshooting, networking. My goal is to continue applying the concepts I learned from the certification and to continue the process of learning.
 <br /><br />
