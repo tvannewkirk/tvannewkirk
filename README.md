@@ -1,9 +1,9 @@
 <h1>Hi, I'm Tanner! <br/></h1>
 
 <h2>About:</h2>
-I am an electronics professional who excels at electronic assembly and testing, and thrives within fast-paced environments. I am pursuing a role where I will be able to combine my customer service experience with my technical skills to solve user issues quickly and efficiently. My goal is to provide empathy to customers and to ensure the problem solving process is as smooth as possible. I have two years of customer service experience and approximately one year of IT experience.
+I am an electronics professional who excels at electronic assembly and testing, and thrives within fast-paced environments. I am pursuing a role where I will be able to combine my experience with fast and accurate order fulfillment with my technical skills to help electronics manufacturing companies create functional devices. My passion for electronics assembly and testing allows me to succeed within fast-paced manufacturing environments.
 <br /><br/>
-I recently completed the CompTIA A+ certification and I appreciated the opportunity to learn the material as it gave me a basic understanding of some of the disciplines within Information Technology. While studying for the certification, I learned that I was particularly interested in hardware and software troubleshooting, networking, operating systems and security. My goal is to continue applying the concepts I learned from the certification and to continue the process of learning.
+I recently completed the CompTIA A+ certification and I appreciated the opportunity to learn the material as it gave me a basic understanding of some of the disciplines within Information Technology. While studying for the certification, I learned that I was particularly interested in hardware and software troubleshooting, networking. My goal is to continue applying the concepts I learned from the certification and to continue the process of learning.
 <br /><br />
 
 <h2>👨‍💻 Electronics Projects:</h2>
@@ -19,7 +19,7 @@ I recently completed the CompTIA A+ certification and I appreciated the opportun
 
 <h2>📄 Education: </h2>
 
-- BA/BS in Electrical Engineering, University of San Diego
+- BA/BS in Electrical Engineering, Summa Cum Laude, University of San Diego
 
 <h2> 🤳 Connect with me:</h2>
 
