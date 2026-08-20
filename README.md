@@ -8,7 +8,7 @@ I am skilled in through-hole and surface mount soldering, and I am able to utili
 
 <h2>👨‍💻 Electronics Projects:</h2>
 
-- [Handheld Video Game Project](https://github.com/tvannewkirk/ActiveDirectoryLab)
+- [Handheld Video Game Project](
 - [FM Radio Circuit Assembly Project]
 
 
